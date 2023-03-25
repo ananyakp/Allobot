@@ -1,1 +1,4 @@
 # Allobot
+ChatBot with interactive UI using simple web socket server
+
+Chatbots are programs that mimic human conversations using Artificial Intelligence(AI). A chatbot simulates a human-like conversation through text messages, voice chats, or both in order to perform a specific task for an end user. It is the ultimate virtual assistant, helping one to complete tasks. A chatbot can potentially be useful for scaling operations, task automations, user engagement, social media integration, data generation and much more. It’s functionality disseminates through a variety of industries like customer service, e-commerce, health care, travel tourism, banking and finance, food services and grocery stores. In our project, we use python for the implementation of the chatbot where we analyze machine learning and artificial intelligence incorporated algorithms and methodologies to synthesize the required functional model.
